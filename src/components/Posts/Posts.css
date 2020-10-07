@@ -1,0 +1,19 @@
+.post{
+    width : 60%;
+    border: .5px solid gray;
+    margin: 15px auto;
+    padding: 20px;
+    border-radius : 10px;
+    box-shadow: 5px 5px 10px gray;
+    margin-bottom: 30px;
+}
+
+#see-more-button{
+    background-color: orange;
+    color: white !important;
+    padding: 10px 20px;
+    border-radius:5px;
+}
+a{
+    text-decoration: none;
+}
